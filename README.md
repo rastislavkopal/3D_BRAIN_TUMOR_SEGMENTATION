@@ -48,7 +48,7 @@ Test Score: 0.4583333333333333</b><br>
 <h4>SVM classifier</h4><br>
 <i>Hyperparameters: {'C': 10, 'degree': 3, 'gamma': 1, 'kernel': 'poly'}</i><br>
 <b>Train Score: 0.5216374269005847<br>
-Test Score: 0.0.5</b><br>
+Test Score: 0.5</b><br>
 <img src="https://www.kaggleusercontent.com/kf/60132695/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..CkVBNyTzZVQIiMSUQK1kpw.u8OjY7wLArshBMh_dJ60iggd-cyNFGC8ha-V_xKlVUILaWmDJml9RMC-93FIWKQJj__L8qN-Rgpfte7dt4Jny7laEm3FN4qYvJj5mQdsrYobhaqsjbFKaho5Qe-dose7sMkKc4qsdk1a09MY64bcDYd5DLZgqSp2zzIHyKAbRaRMyOuugPu5s5FYVX4JDaL4E_wEcgy7X8Fnnx9E-zQHSDvEcIHu1jOnqPfbQomOKdNAw_R1UXB2IzldJlaxsZ_HzFJbGgxBsiBvQjm07VaBk2XNAZDlAWGxIUqHrzjlYcLJgpqcp6Bf6Wyxz0y-UIjl0YKNJ_xN2D8EWtWZJdS_1ZnJIozqABQZrbg7VhjroGJH1_UdxuDEEnGo4UL2N5oJVj3eudFzu-45Ro7qyPCUNE_NDRoS2x3Debkqqv4J4MYXn27jukspsVPgXu5gEaIbO-KcE1PG-J1lwUAs5W1FxRxxkn_-_RayNnjSMtEZTRRmRpmHswmc0ZtJ0n5tasQVOGxXpmMkip2BKLVDtfEIdmJFlgyzwxz8m9RKOzCSVmIY-w8XwW7EiZWK5atwjiXUNjl-p6V4JWwkcoWNhCCA887iTkQ3dh_tTif6KJdXoEvIx2_sdHtPyEpG2b3tg2BKlSqhS7c6Rgca8wrrdbm_0574I2MDEtYcqaiYdWbSbSArXaDVwMIGplXpEsHXK2cQ.qmaz20XTVJZAqp6wDA_rIQ/__results___files/__results___38_0.png" width="40%" height="auto">
 
 <h4>K Neighbors Classifier</h4><br>
