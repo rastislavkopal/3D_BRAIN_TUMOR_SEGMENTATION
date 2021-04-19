@@ -3,7 +3,7 @@ Deep-learning CNN model for fully automatic glioma segmentation in 3D volume of 
 
 <img src="https://www.med.upenn.edu/cbica/assets/user-content/images/BraTS/brats-tumor-subregions.jpg" alt="challenge def img">
 
-<h3>Task 1: Segmentation of gliomas in pre-operative MRI scans.</h3><br>
+<h1>Task 1: Segmentation of gliomas in pre-operative MRI scans.</h1><br>
 <p>
    The sub-regions of tumor considered for evaluation are: 1) the "enhancing tumor" (ET), 2) the "tumor core" (TC), and 3) the "whole tumor" (WT) The provided segmentation labels have values of 1 for NCR & NET, 2 for ED, 4 for ET, and 0 for everything else.
 </p><br>
@@ -31,7 +31,7 @@ From left: original slice of a brain, ground truth, all classes predicted, CORE 
 
 <hr><br>
 
-<h3>Task 2: Survival days prediction</h3><br>
+<h1>Task 2: Survival days prediction</h1><br>
 <p>
 Our task is aimed at classifying patients into three survival groups obtained by unsupervised two-step clustering. These groups roughly correspond to the known survival groups in GBM (PMID: 22517216). The survival groups were characterized as long survivors (e.g., > 450 days), short survivors (e.g., < 300 days), and mid-survivors (e.g., between 300 and 450 days). For precise treatment planning, it is valuable to categorize a patient to either of these survival subgroups. This will enable clinicians to decide how aggressively a patient needs to be treated. 
 </p><br>
